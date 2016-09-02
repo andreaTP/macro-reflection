@@ -1,0 +1,3 @@
+package testlib
+
+class Baz
